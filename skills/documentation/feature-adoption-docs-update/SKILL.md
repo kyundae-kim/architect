@@ -65,3 +65,4 @@ description: "FastAPI/SDK 프로젝트에서 신규 인프라 기능(예: NATS) 
 
 ## Support files
 - references/nats-doc-update-checklist.md: NATS 도입 문서 반영 시 세부 항목/예시 변수/subject 네이밍 참고
+- references/alembic-migration-doc-pattern.md: Alembic 마이그레이션 도입 이슈(create_all 제거, 로컬 Base 통합) 문서 반영 패턴 — 변경 위치/내용/코드 예시/다음 단계 포함
