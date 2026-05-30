@@ -1,5 +1,5 @@
 name: architect
-version: 1.0.2
+version: 1.0.3
 description: "An agent that assists in architectural design and planning."
 hermes_requires: ">=0.14.0"
 author: aman
